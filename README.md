@@ -40,7 +40,7 @@
 
 # Step 7: Click on your instance
 
-#Specified protocols and ports to 'tcp:5000' as we want to enable port 5000 for digits
+# Specified protocols and ports to 'tcp:5000' as we want to enable port 5000 for digits
 
 <kbd>
   <img src="/6_create2.JPG">
